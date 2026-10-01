@@ -1,0 +1,10 @@
+Issue_Type,Affected_Orders,Severity,Recommended_Action
+Missing Customer_ID,1014,Medium,Verify customer details
+Missing Quantity,1024,High,Verify quantity from source
+Missing Unit_Price,1046,High,Verify product price
+Duplicate Record,1015,Medium,Verify and remove duplicate
+Invalid Quantity,"1007, 1034",High,Verify quantity; must be positive
+Invalid Unit Price,"1013, 1027",High,Verify price from source
+Invalid Order Date,"1012, 1031",Medium,Verify and correct dates
+Total Sales Mismatch,"1009, 1025",High,Verify Quantity x Unit_Price
+Inconsistent Text Formatting,Check audit output,Low,Standardize spaces and capitalization

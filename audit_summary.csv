@@ -1,0 +1,10 @@
+Metric,Result
+Original Rows,50
+Original Columns,9
+Missing Cells,3
+Duplicate Rows,1
+Invalid Quantity Records,2
+Invalid Unit Price Records,2
+Invalid Date Records,2
+Cleaned Rows,49
+Cleaned Duplicate Rows,0
